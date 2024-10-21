@@ -37,4 +37,3 @@ After training, the model makes predictions on test data, and results are plotte
 
 *The Libraries used in my environment : [requirements.txt](https://github.com/rpattan1607/rand_wire_nn/blob/e6e7a2c570b8e6e4443ba1d3fa7d35b26a8f761c/requirement.txt)*
 
-## Sample Output
