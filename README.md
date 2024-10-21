@@ -1,5 +1,5 @@
 # Rand Wire NN
-The repository contains code for RandWire this is a type of convolutional neural network that arise from randomly wired neural networks that are sampled from stochastic network generators, in which a human-designed random process defines generation.
+The repository contains code for RandWire this is a type of neural netowrk architecture that arise from randomly wired neural networks that are sampled from stochastic network generators, in which a human-designed random process defines generation.
 
 <div align="center">
 	<img src="https://github.com/rpattan1607/rand_wire_nn/blob/3adcaa80144d76a4d8a14eceaa956569e6b44cf6/images/model.png">
