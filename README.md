@@ -5,6 +5,8 @@ The repository contains code for RandWire this is a type of convolutional neural
 	<img src="https://github.com/rpattan1607/rand_wire_nn/blob/3adcaa80144d76a4d8a14eceaa956569e6b44cf6/images/model.png">
 </div>
 
+Original Paper: https://arxiv.org/pdf/1904.01569
+
 ## Key features and functionalities:
 
 *CIFAR-10 Dataset Loading with Augmentation:*
